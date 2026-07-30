@@ -8,9 +8,10 @@ type = "effort"
 values = ["high", "xhigh"]
 
 [cost]
-input = 0.7196
-output = 2.2616
-cache_read = 0.13364
+input = 0.6993
+output = 2.1978
+cache_read = 0.12987
 
 [limit]
 context = 1_048_576
+output = 128_000
